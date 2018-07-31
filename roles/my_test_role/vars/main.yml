@@ -1,2 +1,4 @@
 ---
 # vars file for my_test_ansible
+name: "Nagendra"
+email: "nagendra.dittakavi@in.fujitsu.com"
