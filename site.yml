@@ -1,0 +1,6 @@
+# My Playbook Demo...
+- hosts: localhost
+  vars:
+  tasks:
+  roles:
+    - my_test_role
